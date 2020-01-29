@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a66d5f7c-0c64-4132-9423-0cafa74fec12" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/randomgame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jokes.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -34,7 +34,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -43,7 +43,7 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="randomgame" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="modules" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -55,7 +55,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/randomgame.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -66,7 +66,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.randomgame" />
+        <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
   </component>
@@ -87,30 +87,30 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1438" y="387" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580319356662">
+    <state x="1438" y="387" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580326243852">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state x="1438" y="387" key="#com.intellij.execution.impl.EditConfigurationsDialog/2560.23.2560.1417/0.23.2560.1417@0.23.2560.1417" timestamp="1580319356662" />
-    <state width="1119" height="393" key="GridCell.Tab.0.bottom" timestamp="1580320363261">
+    <state x="1438" y="387" key="#com.intellij.execution.impl.EditConfigurationsDialog/2560.23.2560.1417/0.23.2560.1417@0.23.2560.1417" timestamp="1580326243852" />
+    <state width="1119" height="393" key="GridCell.Tab.0.bottom" timestamp="1580327100516">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1119" height="393" key="GridCell.Tab.0.bottom/2560.23.2560.1417/0.23.2560.1417@0.23.2560.1417" timestamp="1580320363261" />
-    <state width="1119" height="393" key="GridCell.Tab.0.center" timestamp="1580320363260">
+    <state width="1119" height="393" key="GridCell.Tab.0.bottom/2560.23.2560.1417/0.23.2560.1417@0.23.2560.1417" timestamp="1580327100516" />
+    <state width="1119" height="393" key="GridCell.Tab.0.center" timestamp="1580327100515">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1119" height="393" key="GridCell.Tab.0.center/2560.23.2560.1417/0.23.2560.1417@0.23.2560.1417" timestamp="1580320363260" />
-    <state width="1119" height="393" key="GridCell.Tab.0.left" timestamp="1580320363260">
+    <state width="1119" height="393" key="GridCell.Tab.0.center/2560.23.2560.1417/0.23.2560.1417@0.23.2560.1417" timestamp="1580327100515" />
+    <state width="1119" height="393" key="GridCell.Tab.0.left" timestamp="1580327100514">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1119" height="393" key="GridCell.Tab.0.left/2560.23.2560.1417/0.23.2560.1417@0.23.2560.1417" timestamp="1580320363260" />
-    <state width="1119" height="393" key="GridCell.Tab.0.right" timestamp="1580320363261">
+    <state width="1119" height="393" key="GridCell.Tab.0.left/2560.23.2560.1417/0.23.2560.1417@0.23.2560.1417" timestamp="1580327100514" />
+    <state width="1119" height="393" key="GridCell.Tab.0.right" timestamp="1580327100515">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1119" height="393" key="GridCell.Tab.0.right/2560.23.2560.1417/0.23.2560.1417@0.23.2560.1417" timestamp="1580320363261" />
-    <state x="1379" y="378" width="1125" height="960" key="SettingsEditor" timestamp="1580261687307">
+    <state width="1119" height="393" key="GridCell.Tab.0.right/2560.23.2560.1417/0.23.2560.1417@0.23.2560.1417" timestamp="1580327100515" />
+    <state x="1379" y="378" width="1125" height="960" key="SettingsEditor" timestamp="1580321171486">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state x="1379" y="378" width="1125" height="960" key="SettingsEditor/2560.23.2560.1417/0.23.2560.1417@0.23.2560.1417" timestamp="1580261687307" />
+    <state x="1379" y="378" width="1125" height="960" key="SettingsEditor/2560.23.2560.1417/0.23.2560.1417@0.23.2560.1417" timestamp="1580321171486" />
     <state x="1572" y="524" key="com.intellij.ide.util.TipDialog" timestamp="1580316248127">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
