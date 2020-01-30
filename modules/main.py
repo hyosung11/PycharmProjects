@@ -65,11 +65,10 @@ from collections import Counter, defaultdict, OrderedDict
 
 
 # LIST vs ARRAY
-from array import array
+# from array import array
+#
+# arr = array('i', [1,23])
+#
+# print(arr[0])
 
-arr = array('i', [1,23])
-
-print(arr[0])
-
-
-
+poo = 4 + 'b'
